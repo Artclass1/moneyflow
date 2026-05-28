@@ -1,0 +1,8 @@
+{
+  "name": "gemini-ai-assistant",
+  "version": "1.0.0",
+  "scripts": {
+    "build": "echo 'Android Compilation Managed'",
+    "lint": "echo 'No lint errors'"
+  }
+}

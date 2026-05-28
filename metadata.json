@@ -1,0 +1,6 @@
+{
+  "name": "Global MoneyFlow",
+  "description": "A real-time global capital flow tracker mapping stock market, forex, gold, and cryptocurrency transfers by country alongside intelligent Gemini-powered companion insights.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
